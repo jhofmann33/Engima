@@ -1,5 +1,9 @@
 # Engima
 Quick Python Engima encoding and decoding
+
+Uses: https://pypi.org/project/py-enigma/, https://py-enigma.readthedocs.io/en/latest/index.html
+
+
 Suggested that you place all the files into a folder.
 Use the example sheet, or spend some time creating your own. Both encoder and decoder need to have a copy of the same sheet. 
 Using encrypt.py will print the output to console, as well as write it into message.txt
